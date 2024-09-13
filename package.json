@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is a proyect with nodejs in my house!!",
+  "main": "path.js",
+  "type": "module",
+  "scripts": {
+    "dev": "cls && nodemon index.js"
+  },
+  "author": "SebastianSR",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.21.0",
+    "sharp": "0.33.5"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.4",
+    "zod": "3.23.8"
+  }
+}

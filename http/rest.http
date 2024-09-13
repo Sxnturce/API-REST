@@ -1,0 +1,26 @@
+### Obtener todos los usuarios
+GET http://localhost:4000/api/users/
+
+### Obtener un usuario
+GET http://localhost:4000/api/users/325bbd33-fc86-4067-b563-6033dc580d36
+
+### Crear un usuario
+POST http://localhost:4000/api/users/
+content-type: application/json
+
+{
+  "name": "Nothvng",
+  "email": "nothing@example.com",
+  "username": "cebolla"
+}
+
+### Actualizar un usuario
+PUT http://localhost:4000/api/users/325bbd33-fc86-4067-b563-6033dc580d36
+content-type: application/json
+
+{
+  "name": "Nothing"
+}
+
+### Eliminar un usuario
+DELETE http://localhost:4000/api/users/325bbd33-fc86-4067-b563-6033dc580d36

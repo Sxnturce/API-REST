@@ -1,0 +1,72 @@
+[
+	{
+		"id": "1",
+		"name": "John Doe",
+		"email": "johndoe@example.com",
+		"username": "johndoe",
+		"role": "user"
+	},
+	{
+		"id": "2",
+		"name": "SebastianSR",
+		"email": "johndoe@example.com",
+		"username": "johndoe",
+		"role": "user"
+	},
+	{
+		"id": "3",
+		"name": "Michael Johnson",
+		"email": "michaeljohnson@example.com",
+		"username": "mjohnson",
+		"role": "user"
+	},
+	{
+		"id": "4",
+		"name": "Emily Davis",
+		"email": "emilydavis@example.com",
+		"username": "edavis",
+		"role": "user"
+	},
+	{
+		"id": "5",
+		"name": "Chris Evans",
+		"email": "chrisevans@example.com",
+		"username": "cevans",
+		"role": "user"
+	},
+	{
+		"id": "6",
+		"name": "Sophia Martinez",
+		"email": "sophiamartinez@example.com",
+		"username": "smartinez",
+		"role": "user"
+	},
+	{
+		"id": "7",
+		"name": "David Brown",
+		"email": "davidbrown@example.com",
+		"username": "dbrown",
+		"role": "admin"
+	},
+	{
+		"id": "8",
+		"name": "Olivia Wilson",
+		"email": "oliviawilson@example.com",
+		"username": "owilson",
+		"role": "user"
+	},
+	{
+		"id": "9",
+		"name": "Liam Garcia",
+		"email": "liamgarcia@example.com",
+		"username": "lgarcia",
+		"role": "user"
+	},
+	{
+		"id": "325bbd33-fc86-4067-b563-6033dc580d36",
+		"name": "Nothing",
+		"email": "nothing@example.com",
+		"username": "cebolloron",
+		"role": "user"
+	}
+]
